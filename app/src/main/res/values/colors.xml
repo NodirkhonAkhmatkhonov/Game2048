@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#00BCD4</color>
+    <color name="colorPrimaryDark">#00534A</color>
+    <color name="colorAccent">#D81B60</color>
+    <color name="colorToolbarPrimary">#8BC34A</color>
+    <color name="colorToolbarDark">#33691E</color>
+
+    <color name="colorBoxDefault">#72393939</color>
+    <color name="colorBoxDefaultDark">#721C1C1C</color>
+    <color name="colorBoxTwo">#00D1BD</color>
+    <color name="colorBoxTwoDark">#019F90</color>
+    <color name="colorBoxFour">#E91E63</color>
+    <color name="colorBoxFourDark">#B6184E</color>
+    <color name="colorBoxEight">#FF6600</color>
+    <color name="colorBoxEightDark">#C85101</color>
+    <color name="colorBoxSixteen">#FFB600</color>
+    <color name="colorBoxSixteenDark">#CA9001</color>
+    <color name="colorBoxThirtyTwo">#9DFF00</color>
+    <color name="colorBoxThirtyTwoDark">#7AC601</color>
+    <color name="colorBoxSixtyFour">#00FF88</color>
+    <color name="colorBoxSixtyFourDark">#01CC6D</color>
+    <color name="colorBoxOneTwoEight">#00C4FF</color>
+    <color name="colorBoxOneTwoEightDark">#0197C5</color>
+    <color name="colorBoxTwoFiveSix">#6200FF</color>
+    <color name="colorBoxTwoFiveSixDark">#4C01C3</color>
+    <color name="colorBoardFiveOneTwo">#FCFF00FB</color>
+    <color name="colorBoardFiveOneTwoDark">#FCC501C1</color>
+    <color name="colorBoardOneOTwoFour">#980005</color>
+    <color name="colorBoardOneOTwoFourDark">#600003</color>
+    <color name="colorBoardTwoOFourEight">#0040FF</color>
+    <color name="colorBoardTwoOFourEightDark">#012FBA</color>
+
+    <color name="colorBoardBoxes">#725E5E5E</color>
+    <color name="background_dim">#25000000</color>
+
+</resources>

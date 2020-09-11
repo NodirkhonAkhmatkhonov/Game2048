@@ -1,0 +1,7 @@
+<resources>
+    <dimen name="fab_margin">16dp</dimen>
+
+    <dimen name="sizeOfCorner">8dp</dimen>
+    <dimen name="sizeOfBoxShadow">5dp</dimen>
+    <dimen name="sizeOfBoxMargin">6dp</dimen>
+</resources>

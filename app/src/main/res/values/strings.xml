@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Game2048</string>
+    <string name="title_activity_tester">TesterActivity</string>
+    <string name="title_activity_act_tester">act_tester</string>
+    <string name="title_activity_act_2">Act_2</string>
+    <string name="title_activity_settings">SettingsActivity</string>
+</resources>
